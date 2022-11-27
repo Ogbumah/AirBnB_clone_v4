@@ -1,1 +1,1 @@
-This is the readme for AirBnB clone v2
+Authors Barnabas Abuye, Lucky Ogbumah
